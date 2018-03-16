@@ -11,3 +11,8 @@ Project will be done with django framework.
 description of our project
 
 quick it is the uber for delivery and motto of our product is for the people and to the people. we are providig the platform for those people who are in need of urgent delivery and those who want to earn money by providing services.
+Our implementation plan will held into four different sprint.
+sprit 1: normal statics pages.
+sprint 2. testing and implement on server.
+sprint 3. building server and add function.
+sprint 4. testing and complete assignment.
