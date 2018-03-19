@@ -16,3 +16,8 @@ sprit 1: normal statics pages.
 sprint 2. testing and implement on server.
 sprint 3. building server and add function.
 sprint 4. testing and complete assignment.
+
+
+here is django documentation.
+https://docs.djangoproject.com/en/2.0/
+
