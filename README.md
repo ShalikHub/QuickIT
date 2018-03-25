@@ -1,4 +1,4 @@
-#QuickIT</br>
+#<h1>QuickIT<h1></br>
 <strong>This is Software development project 2 web based application</strong>
 
 Project will be done with django framework.
@@ -8,7 +8,7 @@ Project members:
 <strong>Kamal lamsal</strong></br>
 <strong>Rakesh Phaiju</strong></br>
 
-description of our project</br>
+<h1>description of our project</h1></br>
 
 <b>quick it is the uber for delivery and motto of our product is for the people and to the people. we are providig the platform for those people who are in need of urgent delivery and those who want to earn money by providing services.
 Our implementation plan will held into four different sprint.</b></br>
