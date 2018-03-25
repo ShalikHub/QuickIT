@@ -24,8 +24,9 @@ https://docs.djangoproject.com/en/2.0/
 <h1>sprint 1 plan:</h1>
 starting implementation: login page, static pages like user can log in sign in , see payment function (probably fake), we might use geogle tracking system just to find users.
 
-work division: 
-sprint 1: first page to be created.
+ 
+<h1>sprint 1: </h1>
+          first page to be created.</br>
           login page</br>
           base page</br>
           post page</br>
