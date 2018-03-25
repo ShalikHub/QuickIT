@@ -1,12 +1,12 @@
-# QuickIT
-This is Software development project 2 web based application
+#QuickIT
+<strong>This is Software development project 2 web based application</strong>
 
 Project will be done with django framework.
-#Project members:
-#shalik sapkota</br>
-#Rachit khanal</br>
-#Kamal lamsal</br>
-#Rakesh Phaiju</br>
+Project members:
+shalik sapkota</br>
+Rachit khanal</br>
+Kamal lamsal</br>
+Rakesh Phaiju</br>
 
 description of our project</br>
 
