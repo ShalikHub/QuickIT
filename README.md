@@ -26,4 +26,7 @@ finishing all plan.
 starting implementation: login page, static pages like user can log in sign in , see payment function (probably fake), we might use geogle tracking system just to find users.
 
 work division: 
-
+sprint 1: first page to be created.
+          login page
+          base page
+          post page
