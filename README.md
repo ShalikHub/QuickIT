@@ -12,21 +12,24 @@ Project members:
 
 <b>quick it is the uber for delivery and motto of our product is for the people and to the people. we are providig the platform for those people who are in need of urgent delivery and those who want to earn money by providing services.
 Our implementation plan will held into four different sprint.</b></br>
-sprit 1: normal statics pages.
-sprint 2. testing and implement on server.
-sprint 3. building server and add function.
-sprint 4. testing and complete assignment.
+sprit 1: normal statics pages.</br>
+sprint 2. testing and implement on server.</br>
+sprint 3. building server and add function.</br>
+sprint 4. testing and complete assignment.</br>
 
 
-here is django documentation.
+Here is Django Documentation.
 https://docs.djangoproject.com/en/2.0/
 
-sprint 1 plan:
-finishing all plan.
+<h1>sprint 1 plan:</h1>
 starting implementation: login page, static pages like user can log in sign in , see payment function (probably fake), we might use geogle tracking system just to find users.
 
 work division: 
 sprint 1: first page to be created.
-          login page
-          base page
-          post page
+          login page</br>
+          base page</br>
+          post page</br>
+          home page</br>
+          first testing</br>
+          
+          
