@@ -3,10 +3,10 @@ This is Software development project 2 web based application
 
 Project will be done with django framework.
 #Project members:
-#shalik sapkota
-#Rachit khanal
-#Kamal lamsal
-#Rakesh Phaiju
+#shalik sapkota----
+#Rachit khanal----
+#Kamal lamsal-----
+#Rakesh Phaiju-----
 
 description of our project
 
