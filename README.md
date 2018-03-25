@@ -1,4 +1,4 @@
-#<h1>QuickIT</h1></br>
+<h1>QuickIT</h1></br>
 <strong>This is Software development project 2 web based application</strong>
 
 Project will be done with django framework.
