@@ -34,11 +34,11 @@ starting implementation: login page, static pages like user can log in sign in ,
           first testing</br>
           
  <h1>sprint 2: </h2>
-  registration backend
-  uploading images
-  see item details
-  payment finalized
-  see final forntend
+  registration backend</br>
+  uploading images</br>
+  see item details</br>
+  payment finalized</br>
+  see final forntend</br>
   
           
           
