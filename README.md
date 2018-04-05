@@ -33,4 +33,12 @@ starting implementation: login page, static pages like user can log in sign in ,
           home page</br>
           first testing</br>
           
+ <h1>sprint 2: </h2>
+  registration backend
+  uploading images
+  see item details
+  payment finalized
+  see final forntend
+  
+          
           
