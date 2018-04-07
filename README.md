@@ -39,6 +39,7 @@ starting implementation: login page, static pages like user can log in sign in ,
   see item details</br>
   payment finalized</br>
   see final forntend</br>
+  testing
   
           
           
