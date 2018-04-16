@@ -43,9 +43,9 @@ starting implementation: login page, static pages like user can log in sign in ,
   </hr>
   
   <h1> sprint 3: </h2>
-  testing
-  web deployment
-  merging pages
+  testing</br>
+  web deployment</br>
+  merging pages</br>
   
           
           
