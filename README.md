@@ -40,6 +40,7 @@ starting implementation: login page, static pages like user can log in sign in ,
   payment finalized</br>
   see final forntend</br>
   testing
+  </hr>
   
           
           
