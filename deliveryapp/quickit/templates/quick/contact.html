@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+<meta charset="UTF-8">
+<title>Contact</title>
+</head>
+<body>
+<h1>Contact Form:</h1>
+
+<form action="/contact" method="post">
+      {{ form.hidden_tag() }}
+    <p>
+      {{ form.name.label }}
+      {{ form.name }}
+    </p>
+    <p>
+      {{ form.email.label }}
+      {{ form.email }}
+    </p>
+    <p>
+      {{ form.message.label }}
+      {{ form.message }}
+    </p>
+    <p>
+      {{ form.submit }}
+    </p>
+  </form>
+  </body>
+  </html>
