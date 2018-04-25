@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="./css/index.css">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>directions</title>
+    
+  </head>
+  <body>  
+     
+      <div id="map">        
+        </div>
+    <div id="floating-panel">
+          <b>begining point:</b>    
+          <input type="text" id="start">
+                     
+          <b>End point:</b>   
+          <input id="end" type="text"></input>
+           
+          <b>comment:</b>  
+          <textarea id="descriptionStart" row="5"></textarea>
+                           
+          <input type="submit" id="submit">         
+          <div id="showInformation"></div>
+        <div id="directions-panel"></div>
+        </div>
+    </div>   
+    <div id="right-panel"></div>
+    
+    
+    <script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA6tnlqoUatPIjXweNaW5UBQQHFRl1UG0c&callback=initMap">
+
+    </script>
+    <script type="text/javascript" src="./js/index.js"></script>
+  </body>
+</html>
