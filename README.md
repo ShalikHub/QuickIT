@@ -46,6 +46,14 @@ starting implementation: login page, static pages like user can log in sign in ,
   testing</br>
   web deployment</br>
   merging pages</br>
+  </hr>
+  
+  <h1> sprint</h1>
+  final testing</br>
+  server deployment</br>
+  demo persenation</br>
+  documentations</br>
+  evaluation</br>
   
           
           
