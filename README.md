@@ -2,11 +2,7 @@
 <strong>This is Software development project 2 web based application</strong>
 
 Project will be done with django framework.
-Project members:</br>
-<strong>shalik sapkota</strong></br>
-<strong>Rachit khanal</strong></br>
-<strong>Kamal lamsal</strong></br>
-<strong>Rakesh Phaiju</strong></br>
+
 
 <h1>description of our project</h1></br>
 
